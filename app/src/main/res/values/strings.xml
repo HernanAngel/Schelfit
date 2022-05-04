@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Schelfit</string>
+    <string name="pref_syncConnectionType">pref_syncConnectionType</string>
+    <string name="pref_sync">pref_sync</string>
+    <string name="pref_sync_sum">pref_sync_sum</string>
+    <string name="pref_syncConnectionTypes_default">pref_syncConnectionTypes_default</string>
+    <string name="pref_quote_key">pref_quote_key</string>
+    <string name="pref_quote_title">pref_quote_title</string>
+    <string name="pref_quote_summary">prof_quote_summary</string>
+    <string name="pref_quote_default">pref_quote_default</string>
+</resources>

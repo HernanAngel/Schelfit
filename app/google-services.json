@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152408344361",
+    "project_id": "schelfit",
+    "storage_bucket": "schelfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152408344361:android:b4b75abc7868386fea1938",
+        "android_client_info": {
+          "package_name": "com.zybooks.schelfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152408344361-094h0dad60g3md8lthd525817mfbivp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC21lbHs6qy7n82dts5iA17U6pDaaCyM_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152408344361-094h0dad60g3md8lthd525817mfbivp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
